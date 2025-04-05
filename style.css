@@ -126,3 +126,7 @@ hr {
 .fa-building, .fa-calendar-days {
   margin-right: 5px;
 }
+
+h4 {
+  text-align: center
+}
