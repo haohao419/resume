@@ -90,9 +90,20 @@ p {
   color: #ff6600;
 }
 
+.contact {
+  color: #006030;
+  text-align: center;
+}
+
+.contact i, span {
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+
 .title {
   text-align: center;
   color: orange;
+  margin-top: 10px;
 }
 
 .skills {
@@ -125,9 +136,4 @@ hr {
 
 .fa-building, .fa-calendar-days {
   margin-right: 5px;
-}
-
-h4 {
-  margin: 5px auto;
-  text-align: center;
 }
